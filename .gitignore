@@ -103,9 +103,11 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+#renpy
 /game/cache
 /game/saves
 __rpycache__/
 *.rpy[cod]
 *$rpy.class
 *.rpy*c
+/log.txt
