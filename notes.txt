@@ -1,0 +1,16 @@
+Characters
+	name  -> how to hide the name and then show the real name?
+	color -> hexadecimal
+	image -> makes sense..
+
+Images
+	stored in /images
+	background art should be a JPG, JPEG, PNG, or WEBP file
+	character art should be an PNG or WEBP file
+	Images can be placed in subdirectories (subfolders) under the images directory. The directory name is ignored and only the filename is used to define the image name.
+	naming convention:
+		filenames are lowercase
+		"bg scenery.jpg" -> bg scenery Example "bg meadow.jpg" -> bg meadow
+		"character attribute attributeN.png" -> character attribute attributeN Example: "sylvie green smile.png" -> sylvie green smile
+
+Audio files should be in opus, ogg vorbis, or mp3 format.
